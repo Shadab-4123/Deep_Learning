@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+sentence-transformers
+google-generativeai
+rank_bm25
+jinja2
